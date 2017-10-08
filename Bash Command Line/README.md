@@ -48,8 +48,6 @@
 | `rm -r <DIRECTORY_NAME>` | deletes the given directory | 
 
 ## Redirection:
-
-### General: 
 | COMMAND | DESCRIPTION |
 | --- | ------------------------------------------------- |
 | `echo <ARGUEMENT>` | prints the arguement in the shell |
