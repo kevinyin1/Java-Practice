@@ -67,4 +67,12 @@
 | `grep -Rl <ARGUEMENT>` | searches allt files in a directory and ouputs only filenames that match the given arguement |
 | `sed '<EXPRESSION>' <FILE_NAME>` | searches the given file for matches in the expression given (Expression Sample: 's/snow/rain/') |
 
-
+## Environment:
+| COMMAND | DESCRIPTION |
+| --- | ------------------------------------------------- |
+| `nano <FILE_NAME>` | nano is a text editor. To save, hit `CRTL O` and exit `CRTL X` |
+| `nano ~/.bash_profile` | creates a filed called bash_profile to store environment settings |
+| `source ~/.bash_profile` | runs bash_profile |
+| `alias <VARIABLE_NAME>=<COMMAND>` | create your own environment variable |
+| `export <VARIALBE_NAME>=<ARGUEMENT>` | makes the variable avaliable to all child sessions from the session you are in (export PS1="<TERMINAL_FORMAT_YOU_WANT>)|
+| `env` | returns a list of the environment variables for the current user |
