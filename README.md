@@ -1,7 +1,7 @@
-# Summer Java Skills Development<br>
+# Java Practice:
 - Year: 2017
 
-## Links 
+## Links: 
 - Links:
     - Applet:
         - [Building Applets](http://www.oracle.com/technetwork/java/applet-137165.html)
