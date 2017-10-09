@@ -7,7 +7,7 @@
 | COMMAND | DESCRIPTION |
 | --- | ------------------------------------------------- |
 | `pwd` | outputs the name of the current working directory |
-| `ls` | lits all files and directories in the working directory |
+| `ls` | lists all files and directories in the working directory |
 | `cd` | switches you into the directory you specify |
 | `cd ..` | switches you into the directory that is one chain up from the current working directory |
 | `cd ../../` | switches you into the directory that is two chains up from the current working directory |
