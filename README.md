@@ -10,3 +10,13 @@
     - Basic Program:
         - [Essentials in Java Programming](http://www.oracle.com/technetwork/java/index-138747.html)
     - [Java Socket](http://www.oracle.com/technetwork/java/socket-140484.html#server)
+    
+# Observer and Obervables 
+- Folder Structure
+    - Demo.java
+    - cabbagepkg
+        - CabbageStock.java
+        - Customer.java
+        - Observer.java
+## Things to note
+- 
