@@ -13,8 +13,8 @@
     
 # Observer and Obervables 
 - Folder Structure:
-    - Demo.java
-    - cabbagepkg:
+    -- Demo.java
+    -- cabbagepkg:
         - CabbageStock.java
         - Customer.java
         - Observer.java
